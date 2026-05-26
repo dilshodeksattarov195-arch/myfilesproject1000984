@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcerify",
+        "uuid": 9143328,
+        "checksum": "a2zfbd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
